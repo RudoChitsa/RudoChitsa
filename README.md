@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RudoChitsa
 - 👀 I’m interested in Full-Stack Software Engineering
-- 📫 You can reach me on rudochitsa@gmail.com
+- 📫 You can reach me on info@rudochitsa.com
 
 <!---
 RudoChitsa/RudoChitsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
