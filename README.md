@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RudoChitsa
-- 👀 I’m interested in Full-Stack Software Engineering
+- 👋 Halloha! I’m @RudoChitsa
+- 👀 I am a Full-Stack Software Engineer
 - 📫 You can reach me on info@rudochitsa.com
 
 <!---
